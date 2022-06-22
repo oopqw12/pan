@@ -1,0 +1,19 @@
+body{
+     background-attachment:fixed;
+    }
+
+p.uno{text-align:center;
+  color:white;
+  font-size:25px;
+}
+
+img:hover{
+transform:scale(1.5);
+
+}
+
+img:hover{
+transform:scale(2)
+h1:hover{
+transform:scale(2)
+{

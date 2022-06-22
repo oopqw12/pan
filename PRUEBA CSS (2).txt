@@ -1,0 +1,22 @@
+body{
+     background-attachment:fixed;
+    }
+
+p.uno{text-align:center;
+  color:white;
+  font-size:25px;
+}
+
+img:hover{
+transform:scale(1.5);
+
+}
+
+p.tres:hover{
+transform:scale(1.5);
+}
+
+img:hover{
+-webkit-transform: rotate(720deg);
+transition:all .8s;
+}
